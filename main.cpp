@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
   
-aws_access_key_id=jksfhaésghaség
+aws_access_key_id="aghalgkgljkashdlgkah"
 
 // Main() function: where the execution of program begins
 int main()
